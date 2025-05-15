@@ -74,12 +74,6 @@ This project follows a **modular and scalable architecture**:
 - Gradle 8.0+
 - Android SDK 24+
 
-### Clone the project
-
-```bash
-git clone https://github.com/your-username/multiscreen-b2c-compose-app.git
-cd multiscreen-b2c-compose-app
-
 
 🔒 Security
 🔑 Passwords are hashed before being stored with Room.
